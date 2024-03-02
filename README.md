@@ -1,2 +1,2 @@
 # Career
-Hello, I'm Santhosh, a second year undergrad studying at IIT Madras pursuing B.Tech in Electrical Engineering. Through the tenure as my interests got aligned with the Core Engineering I started to develop the following codes that reflects my work in the course and non-course projects I've taken up.
+Hello, I'm Santhosh, a second year undergrad studying at IIT Madras pursuing B.Tech in Electrical Engineering. Eventually as my interests got aligned with the Core Engineering, I started to develop the following codes that reflected my work in the course and non-course projects I've taken up during the tenure. More over as a core aspirant I wish to seek knowledge from any of the domains my field offers as an intern.
